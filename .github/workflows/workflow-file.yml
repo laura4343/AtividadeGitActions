@@ -9,5 +9,6 @@ jobs:
         run: |
          echo Esse processo carrega uma mensagem
          echo basica para entender o workflow
+         echo ESTOU EM QA
 
 
